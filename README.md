@@ -1,34 +1,58 @@
-# Hi 👋, I'm Shubham
+# Hi there, I'm Shobhit Tomar 👋
 
-🎓 Engineering Student at Chandigarh University
+## 🚀 Data Scientist, ML Engineer & Python Developer
+I am a passionate Developer and Data Specialist focusing on building intelligent, data-driven solutions. My expertise spans across **Python Development, Machine Learning, Data Analytics, and Data Science**, backed by strong relational database skills and solid problem-solving fundamentals.
 
-💻 Learning:
-- Python
-- Data Structures & Algorithms
-- SQL
-- Machine Learning
-- Git & GitHub
+---
 
-🚀 Current Goals
-- Solve DSA problems daily
-- Build ML projects
-- Prepare for Software & ML Engineer roles
-- Contribute consistently on GitHub
+### 🛠️ Tech Stack & Tools
 
-## Tech Stack
+- **Languages:** Python (Advanced), SQL (Strong), C++, JavaScript
+- **Data Science & ML:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Automated Data Pipelines
+- **Data Engineering & Databases:** Advanced SQL Queries, Relational Databases (RDBMS), Joins, Indexing & Query Optimization
+- **Core Fundamentals:** Data Structures & Algorithms (Intermediate DSA), API Development, Git & GitHub
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## GitHub Stats
+### 📊 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrsubhut&show_icons=true)
+#### 🔹 [Aadhaar Update Pressure Analysis](https://github.com/hrsubhut/aadhaar-update-pressure-analysis)
+* **Domain:** Data Analytics & GovTech
+* **Description:** Analyzed heavy-traffic update patterns within Aadhaar card datasets to identify system bottlenecks and optimize operational workflows.
+* **Tech:** Python, Pandas, Matplotlib, Data Wrangling.
 
-## Most Used Languages
+#### 🔹 [Placement Predictor](https://github.com/hrsubhut/placement-predictor)
+* **Domain:** Machine Learning & Predictive Modeling
+* **Description:** Built an end-to-end classification system that predicts student placement probabilities based on historical academic, technical, and behavioral parameters.
+* **Tech:** Python, Scikit-Learn, Pandas, Feature Engineering.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrsubhut&layout=compact)
+#### 🔹 [Mindguard Backend](https://github.com/hrsubhut/mindguard-backend)
+* **Domain:** Backend Development & Architecture
+* **Description:** Developed a robust, scalable backend architecture ensuring clean data routing, secure endpoints, and optimal database management.
+* **Tech:** Python, API Frameworks, SQL.
 
-## Connect With Me
+---
 
-- GitHub: https://github.com/hrsubhut
+### 📖 Technical Handbooks & Journey
+
+I believe in documenting my learning progress and maintaining a strong grasp of core fundamentals:
+* 🗄️ **[Complete-SQL-Handbook](https://github.com/hrsubhut/Complete-SQL-Handbook):** A comprehensive, production-ready reference repository capturing my strong foundation in complex queries, optimization techniques, and schema design.
+* 🐍 **[Python-DSA-Journey](https://github.com/hrsubhut/Python-DSA-Journey):** Active implementation of intermediate Data Structures and Algorithms to sharpen problem-solving efficiency and code performance.
+
+---
+
+### 📈 GitHub Stats
+
+⚡ **My GitHub Stats:**
+![Shobhit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrsubhut&show_icons=true&theme=dark&hide_border=true)
+
+🚀 **Top Languages:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrsubhut&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🤝 Connect with Me
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(Update with your actual link)*
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+*"In God we trust, all others must bring data."* 📊
