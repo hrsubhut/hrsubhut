@@ -47,12 +47,12 @@ I believe in documenting my learning progress and maintaining a strong grasp of 
 ![Shobhit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrsubhut&show_icons=true&theme=dark&hide_border=true)
 
 🚀 **Top Languages:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrsubhut&layout=compact&theme=dark&hide_border=true)
+python ,mysql
 
 ---
 
 ### 🤝 Connect with Me
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(Update with your actual link)*
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/shobhit-tomar08) 
+* **Email:** [your.email@example.com](mailto:itstomars21@gmail.com)
 
 *"In God we trust, all others must bring data."* 📊
